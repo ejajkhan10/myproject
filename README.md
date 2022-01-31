@@ -13,6 +13,7 @@ Our goal is to ensure our pipeline works well after each code being pushed. The 
 * Create Docker image
 * Push the image to Docker Hub
 * Pull and run the image
+* Done
 
 ## First step, running up the services
 
